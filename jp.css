@@ -1,0 +1,12 @@
+.work{display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 23%;
+
+
+}
+.off ul li{
+    display:inline-block;
+    justify-content: space-between;
+    margin: 0px 40px;
+}
